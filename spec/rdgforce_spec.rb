@@ -1,4 +1,4 @@
-require "../lib/rdgforce/Person"
+require "spec_helper"
 
 describe "#person" do
 
