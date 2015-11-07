@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe "#person" do
+describe Person do
 
   before do
     @new_person = Person.new("Lucas", "da Silva", "lucas@lucas.ninja", "Darkside of Aquarius", "Web Developer", "99 9999 9999", "https://lucas.ninja")
